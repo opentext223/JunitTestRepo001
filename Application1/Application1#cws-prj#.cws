@@ -5,8 +5,8 @@
 	typeVersion="0019B980-5ADC-71DF-9C5A-1C9DE0779704"
 	RuntimeDocumentID="78AF08F2-EB6B-A1EE-95B6-51916F1B981F">
 	<DocumentID>78AF08F2-EB6B-A1EE-95B6-51916F1B581F</DocumentID>
-	<Name>Application</Name>
-	<Description>Application</Description>
+	<Name>Application1</Name>
+	<Description>Application1</Description>
 	<CreatedBy>sysadmin</CreatedBy>
 	<CreationDate>2023-09-19T10:43:45.98</CreationDate>
 	<Notes/>
@@ -25,11 +25,11 @@
 			<Notes/>
 			<BuildNumber>0</BuildNumber>
 			<GenerateModelPackage>false</GenerateModelPackage>
-			<ISVPackageFileName>OT Application 1.0.0</ISVPackageFileName>
+			<ISVPackageFileName>OT Application1 1.0.0</ISVPackageFileName>
 			<ISVPackageOwner>OT</ISVPackageOwner>
 			<PackageForRuntime>true</PackageForRuntime>
 			<PostISVLoaderInformation/>
-			<Product>Application</Product>
+			<Product>Application1</Product>
 			<SupportedDeploymentSpaces
 				xmlns:cws="http://schemas.cordys.com/cws/1.0"
 				cws:type="collection:string">
@@ -44,7 +44,7 @@
 	<SourceFolder>
 		<uri
 			id="78AF08F2-EB6B-A1EE-95B6-51916F1AD81F"
-			path="Application"
+			path="Application1"
 			type="com.cordys.cws.runtime.types.folder.StudioFolder"
 		/>
 	</SourceFolder>
@@ -74,7 +74,7 @@
 					<Texts>
 						<uri
 							id="78AF08F2-EB6B-A1EE-95B6-51916F18181F"
-							path="Application/en-US_78AF08F2-EB6B-A1EE-95B6-51916F18181F"
+							path="Application1/en-US_78AF08F2-EB6B-A1EE-95B6-51916F18181F"
 							type="com.cordys.cws.associations.MergeableAssociation"
 						/>
 					</Texts>
@@ -93,7 +93,7 @@
 			<Texts>
 				<uri
 					id="78AF08F2-EB6B-A1EE-95B6-51916F19181F"
-					path="Application/TranslationInformation_78AF08F2-EB6B-A1EE-95B6-51916F19181F"
+					path="Application1/TranslationInformation_78AF08F2-EB6B-A1EE-95B6-51916F19181F"
 					type="com.cordys.cws.associations.MergeableAssociation"
 				/>
 			</Texts>
